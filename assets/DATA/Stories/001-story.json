@@ -1,0 +1,36 @@
+{
+  "name" : "Spat between True Indology and Roopa IPS",
+  "id"   : "001-story",
+  "stacks" : [
+    {
+    "type": "card",
+    "folder" : "Deepawali",
+    "convFileId"    : "001-conv",
+    "cardsSelectedIds"   : ["1","2"],
+    "comment" :"",
+    "totalCardsCount" : 0,
+    "convCardToBeHighlighted" : 0,
+    "convCardsToBeFiltered"   : "1-2-3"
+    },
+    {
+      "type": "card",
+      "folder" : "Deepawali",
+      "convFileId"    : "001-conv",
+      "cardsSelectedIds"   : ["2"],
+      "comment" :"",
+      "totalCardsCount" : 0,
+      "convCardToBeHighlighted" : 0,
+      "convCardsToBeFiltered"   : "1-2-3"
+    },
+    {
+      "type": "card",
+      "folder" : "Deepawali",
+      "convFileId"    : "001-conv",
+      "cardsSelectedIds"   : ["5"],
+      "comment" :"",
+      "totalCardsCount" : 0,
+      "convCardToBeHighlighted" : 0,
+      "convCardsToBeFiltered"   : "1-2-3"
+    }
+]
+}
