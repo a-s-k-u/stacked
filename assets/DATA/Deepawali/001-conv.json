@@ -1,6 +1,14 @@
 {
   "name": "The Final Conversation",
   "type": "conversation",
+  "stories" : [
+    {
+      "storyId" : "001-story", 
+      "highlightedCard" : 0,
+      "storyPreviewCards" : ["1","3"],
+      "conversationPreviewCards" : ["1","3","9"]
+    }
+  ],
   "cards": [
    {
     "id": 1,
