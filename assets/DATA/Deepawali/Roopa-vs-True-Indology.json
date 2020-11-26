@@ -2,12 +2,12 @@
   "name": "Roopa-vs-True-Indology",
   "id" : "Roopa-blocks-TrueIndology",
   "type": "conversation",
-  "stories" : [
+  "references" : [
     {
       "type" : "story",
       "id" : "how-True-Indology-got-blocked-in-twitter",
       "highlightedCard" : 0,
-      "storyPreviewCards" : ["1"],
+      "storyPreviewCards" : ["1","4"],
       "conversationPreviewCards" : ["1","3","9"]
     }
   ],
