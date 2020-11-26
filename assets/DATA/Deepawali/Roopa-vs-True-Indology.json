@@ -1,11 +1,13 @@
 {
-  "name": "The Final Conversation",
+  "name": "Roopa-vs-True-Indology",
+  "id" : "Roopa-blocks-TrueIndology",
   "type": "conversation",
   "stories" : [
     {
-      "storyId" : "001-story", 
+      "type" : "story",
+      "id" : "how-True-Indology-got-blocked-in-twitter",
       "highlightedCard" : 0,
-      "storyPreviewCards" : ["1","3"],
+      "storyPreviewCards" : ["1"],
       "conversationPreviewCards" : ["1","3","9"]
     }
   ],
@@ -16,23 +18,27 @@
     "date": "2017-08-18T08:38:43",
     "actor": "D Roopa IPS",
     "actor_id": 1002,
-    "message":".@TIinExile, \n ur follower trolls who are nameless,faceless ask me if I'm an expert on Hinduism. \n U r giving so much gyaan(which is incorrect many times) ,why don't u tell, R u an expert? \n What expertise u have? Y r u faceless/ nameless. A Don troll like u is afraid to put identity?"
+    "message":"My contemplative piece on crackers, the govt ban and people's behaviour",
+    "imageIds" : ["Roopa_FB_POST.jpg"],
+    "contextNote" : "This IPS Officer enters the spat, flaunting her 'what she knows best' by posting a link to her FB post"
    },
    {
     "id": 2,
     "type": "card",
     "date": "2017-08-18T08:38:43",
-    "actor": "True Indology",
-    "actor_id": 1001,
-    "message":"Madam,why do you want my pictures? what is your interest? It is my private information. Why do you want to infringe upon my privacy? I generally don't share my pictures with strangers unless one proposes a matrimonial prospect."
+    "actor": "Kanimozhi",
+    "actor_id": "kanimozhi",
+    "message":"Dear @MNageswarRaoIPS except for special case is <span class=\"redUnderline\"> Anti Hindu </span> mindset is mandatory for posting & promotion in IAS & IPS ? @D_Roopa_IPS",
+    "contextNote" : "to which a user replied"
    },
    {
     "id": 3,
     "type": "card",
     "date": "2017-08-18T08:38:43",
-    "actor": "True Indology",
-    "actor_id": 1001,
-    "message":"Since I believe that is not the case, I do not know why you would want my private details. Twitter isn't any sarkari bereaucrat's baap ki jaagir. Twitter allows me my privacy. I will reveal just what I want. Who are you to tell me otherwise."
+    "actor": "D Roopa IPS",
+    "actor_id": 1002,
+    "message":"U should read my piece till last word. There's <span class=\"redUnderline\"> nothing Hindu about crackers</span>. Deepawali is more of lights sans crackers. <span class=\"redUnderline\">Crackers were never mentioned in epics or puranas</span>. It is something added to festival few centuries ago.Sati abolition,widow marriage were also resisted btw.",
+    "contextNote" : ""
    },
    {
     "id": 4,
@@ -40,7 +46,7 @@
     "date": "2017-08-18T08:38:43",
     "actor": "True Indology",
     "actor_id": 1001,
-    "message":"It is funny that you call me a 'Don troll' when I have been respectful throughout the entire conversation. Not once have I made a single personal attack. You on the other hand have been issuing veiled threats like a street bully"
+    "message":"Madam, you have ZERO knowledge about this. Stop embarrassing yourself. You say Fireworks are not mentioned in our Epics/Puranas. Have you read <span class=\"redUnderline\"> Ananda Ramayana </span>? It clearly mentions fireworks during Lord Rama's wedding BTW- Is your secular IPS service mentioned in our scriptures?"
    },
    {
     "id": 5,
@@ -48,7 +54,11 @@
     "date": "2017-08-18T08:38:43",
     "actor": "True Indology",
     "actor_id": 1001,
-    "message":"It is surprising that in a country with 1.3 billion population, civil servants have all the time in the world to threaten and bully citizens online. While genuine grievances beg for attention. This is not the first time that I have been threatened by a civil servant"
+    "message":"For references to firecrackers in Arthashastra, Shukraniti and Atharvanarahasya, check this thread. IPS officers are the consequence of the Marxist education. With some noted exceptions, the bureaucracy is a very integral part of the Marxist secular state",
+    "stack" :{
+      "folder"      : "Deepawali",
+      "convFileId"  : "debunking-ancient-Indians-did-not-use-crackers"
+    }
    },
    {
     "id": 6,
