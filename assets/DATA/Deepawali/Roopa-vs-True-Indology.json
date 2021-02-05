@@ -8,7 +8,7 @@
       "id" : "how-True-Indology-got-blocked-in-twitter",
       "highlightedCard" : 0,
       "storyPreviewCards" : ["1","4"],
-      "conversationPreviewCards" : ["1","3","9"]
+      "conversationPreviewCards" : ["1","3","4","5","8","9","100","110","110_1","209_5"]
     }
   ],
   "cards": [
@@ -20,7 +20,7 @@
     "actor_id": 1002,
     "message":"My contemplative piece on crackers, the govt ban and people's behaviour",
     "imageIds" : ["Roopa_FB_POST.jpg"],
-    "contextNote" : "This IPS Officer enters the spat, flaunting her 'what she knows best' by posting a link to her FB post"
+    "contextNote" : "This is a screenshot from her FB post"
    },
    {
     "id": 2,
@@ -46,7 +46,8 @@
     "date": "2017-08-18T08:38:43",
     "actor": "True Indology",
     "actor_id": 1001,
-    "message":"Madam, you have ZERO knowledge about this. Stop embarrassing yourself. You say Fireworks are not mentioned in our Epics/Puranas. Have you read <span class=\"redUnderline\"> Ananda Ramayana </span>? It clearly mentions fireworks during Lord Rama's wedding BTW- Is your secular IPS service mentioned in our scriptures?"
+    "message":"Madam, you have ZERO knowledge about this. Stop embarrassing yourself. You say Fireworks are not mentioned in our Epics/Puranas. Have you read <span class=\"redUnderline\"> Ananda Ramayana </span>? It clearly mentions fireworks during Lord Rama's wedding BTW- Is your secular IPS service mentioned in our scriptures?",
+    "contextNote" : "View further to see how True Indology proves IPS officer's statement wrong by <br/>a.) giving historic references and proofs from other Hindu texts too <br/>b.) and question her hypocrisy of not asking for scriptural references for Christmas or Eid celebrations"
    },
    {
     "id": 5,
